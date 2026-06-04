@@ -1,6 +1,6 @@
 # Sales & Profit Excel Dashboard
 
-An interactive Excel dashboard analyzing sales and profit performance across categories, states, customers, and time — built using Pivot Tables, Pivot Charts, and Excel formulas to deliver dynamic business insights.
+An interactive Excel dashboard analyzing sales and profit performance across categories, states, customers, and time — built using Pivot Tables, Pivot Charts, and Excel formulas to deliver dynamic business insights
 
 ---
 
